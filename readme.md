@@ -1,4 +1,4 @@
-# Laravel 5.6 + Angular 6 + Material Design
+# Laravel 5.6 + Angular 6 + Material Design & Mobile supports
 
 ![logo](image.jpg "Logo")
 
@@ -34,13 +34,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-<br>
-If you have any questions please use the Issues tab or submit a pull request. I tried to keep this as simple as possible just the basic form of a starter repository to be able to use Angular 6 with Laravel 5.6 as the backend.
-
 
 ### License
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
